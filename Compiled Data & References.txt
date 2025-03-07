@@ -1,0 +1,30 @@
+VR Adoption by Age Group (Source: Market.us Scoop, 2025)
+
+-16-24 years > 34% adoption
+-25-34 years > 35% adoption (highest adoption)
+-35-44 years > 26% adoption
+-45-54 years > 12% adoption
+-55+ years > 6% adoption (lowest adoption)
+
+VR Adoption by State & Tech Influence (Source: Academy of Animated Art, 2024)
+Highest adoption states:
+-California (20%)
+-Texas (18%)
+-New York (19%)
+
+Influence of Income & Urbanization on VR Adoption (Source: Academy of Animated Art, 2024)
+-Urban areas with higher median income correlates with higher VR adoption.
+-California → $80,000 median income, 95% urbanization = High adoption
+-Michigan → $58,000 median income, 65% urbanization = Lower adoption
+
+Gender Differences in VR Ownership (Source: ElectroIQ, 2025)
+- 74% of VR headset owners are male
+
+References 
+Virtual Reality Society. (n.d.). Virtual reality history. Retrieved January 27, 2025, from https://www.vrs.org.uk/virtual-reality/history.html
+Scoop Market. (n.d.). Virtual reality statistics. Retrieved January 27, 2025, from https://scoop.market.us/virtual-reality-statistics/#:~:text=VR%20Market%20Statistics-,Those%20between%20the%20ages%20of%2016%20and%2034%20are%20more,had%20any%20contact%20with%20it
+Satellite Internet. (n.d.). Fastest and slowest rural internet speeds map. Retrieved January 27, 2025, from https://www.satelliteinternet.com/resources/fastest-and-slowest-rural-internet-speeds-map/#:~:text=We%20assessed%20more%20than%20512,download%20speed%20is%2045.66Mbps.
+VR network requirements: bandwidth and latency [Figure]. (n.d.). ResearchGate. Retrieved January 27, 2025, from https://www.researchgate.net/figure/VR-network-requirements-bandwidth-and-latency_tbl1_319049968 
+Market.us Scoop. (2025). Virtual reality statistics: Market trends and demographics. Retrieved March 6, 2025, from https://scoop.market.us/virtual-reality-statistics/
+Academy of Animated Art. (2024). Virtual reality market statistics: Key insights on adoption and trends. Retrieved March 6, 2025, from https://academyofanimatedart.com/virtual-reality-statistics/
+ElectroIQ. (2025). Virtual reality market size, users, and adoption trends. Retrieved March 6, 2025, from https://electroiq.com/stats/virtual-reality-statistics/
